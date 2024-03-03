@@ -155,6 +155,7 @@ set(SCOPEHAL_SOURCES
 	GWInstekGPDX303SPowerSupply.cpp
 	KeysightDCA.cpp
 	LeCroyOscilloscope.cpp
+	LycheeOscilloscope.cpp
 	LeCroyFWPOscilloscope.cpp
 	MockOscilloscope.cpp
 	MultiLaneBERT.cpp
